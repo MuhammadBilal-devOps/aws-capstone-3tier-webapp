@@ -72,4 +72,4 @@ aws-3tier-webapp/
 **Muhammad Bilal**
 AWS Cloud Engineer | Growing into DevOps — Linux, Docker, CI/CD
 Karachi, Pakistan
-[LinkedIn](www.linkedin.com/in/muhammad-bilal-977001399) · [GitHub](https://github.com/MuhammadBilal-devOps)
+[LinkedIn](https://www.linkedin.com/in/muhammad-bilal-977001399) · [GitHub](https://github.com/MuhammadBilal-devOps)
